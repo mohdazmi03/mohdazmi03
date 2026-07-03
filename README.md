@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML Engineer & Full-Stack Developer. Built production CV systems <br>with Vision Transformers at Infineon Technologies. Shipping LLM-powered <br>SaaS products @ aistudyguru.com
+AI/ML Engineer & Full-Stack Developer. Built production CV systems <br>with Vision Transformers at Infineon Technologies. Shipping LLM-powered <br>SaaS products @ aistudyguru.com  @ deenbuddyai.com
 
 
 ## 🌐 Socials:
