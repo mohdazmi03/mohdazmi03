@@ -106,8 +106,8 @@ I’m interested in building software where complex workflows need to feel strai
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mohdazmi03&amp;hide_border=true&amp;card_width=440&amp;theme=github-dark-blue" />
-    <img src="https://streak-stats.demolab.com/?user=mohdazmi03&amp;hide_border=true&amp;card_width=440&amp;theme=transparent" alt="Total GitHub contributions, current streak, and longest streak" width="440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mohdazmi03&amp;hide_border=true&amp;card_width=440&amp;theme=github-dark-blue&amp;hide_current_streak=true" />
+    <img src="https://streak-stats.demolab.com/?user=mohdazmi03&amp;hide_border=true&amp;card_width=440&amp;theme=transparent&amp;hide_current_streak=true" alt="Total GitHub contributions and longest streak" width="440" />
   </picture>
 </p>
 
