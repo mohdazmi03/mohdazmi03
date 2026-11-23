@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/pudgy-penguin.gif" width="180" height="180" alt="Animated Pudgy Penguin wearing sunglasses at a laptop" />
+</p>
+
 <h1 align="center">Azmi</h1>
 
 <p align="center"><strong>Software Engineer at WAHDAH.com</strong></p>
