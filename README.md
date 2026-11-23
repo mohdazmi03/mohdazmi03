@@ -25,11 +25,9 @@ Before WAHDAH, I built a GPU-accelerated computer vision platform at **Infineon 
 
 My work on **ONE** spans customer-facing features and the tools that staff use to run the business. One example is connecting branch stock intake to marketplace listings, so the same stock can be tracked through checkout and delivery.
 
-| Area | What I work on |
-| --- | --- |
-| **Marketplace** | Product listings, stock reservations, checkout, payment recovery, refunds, and fulfilment |
-| **Operations** | Branch and warehouse inventory, supplier management, customer-service workflows, and role-based access |
-| **Otozone storefront** | Customer sign-in and account flows, plus storefront and delivery settings by market |
+- **Marketplace** · Product listings, stock reservations, checkout, payment recovery, refunds, and fulfilment.
+- **Operations** · Branch and warehouse inventory, supplier management, customer-service workflows, and role-based access.
+- **Otozone storefront** · Customer sign-in, account management, and storefront and delivery settings by market.
 
 ---
 
@@ -42,6 +40,26 @@ An AI-powered assessment platform that helps educators turn teaching materials i
 ### <img src="assets/deenbuddy-logo.svg" width="32" height="32" alt="" /> [DeenBuddy AI](https://www.deenbuddyai.com/)
 
 An AI assistant for exploring Islamic questions with references to the **Quran and Sunnah**. Readers can ask about topics such as tafsir, hadith, and fiqh, follow the cited sources, and build on what they learn through interactive quizzes.
+
+---
+
+## 💡 What I Bring
+
+- **Full-stack product development** · I build across backend logic, data models, and the interfaces customers and support teams use.
+- **Commerce and operations engineering** · I connect inventory, payments, and delivery so an order can be tracked from checkout to fulfilment.
+- **Applied computer vision** · I’ve built image analysis and similarity search for semiconductor defect workflows using PyTorch and DINO Vision Transformers.
+- **Production AI deployment** · I’ve deployed GPU inference on OpenShift and used KEDA to scale workers as image-processing jobs arrive.
+
+---
+
+## 📜 Professional Focus
+
+I’m interested in building software where complex workflows need to feel straightforward for the people using them.
+
+- Laravel applications, REST APIs, and internal tools
+- Marketplace, inventory, and fulfilment workflows
+- Computer vision, GPU inference, and MLOps
+- LLM-powered learning products with assessments and source-based answers
 
 ---
 
