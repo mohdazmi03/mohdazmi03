@@ -90,6 +90,31 @@ I’m interested in building software where complex workflows need to feel strai
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmohdazmi03&amp;query=%24.public_repos&amp;label=Public+repos&amp;color=0F766E" alt="Public repositories" />
+  <img src="https://img.shields.io/github/followers/mohdazmi03?style=flat&amp;color=0F766E" alt="GitHub followers" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=mohdazmi03&amp;include_all_commits=true&amp;hide_rank=true&amp;hide=issues%2Cprs&amp;disable_animations=true&amp;hide_border=true&amp;hide_title=true&amp;card_width=440&amp;theme=github_dark" />
+    <img src="https://github-readme-stats.shion.dev/api?username=mohdazmi03&amp;include_all_commits=true&amp;hide_rank=true&amp;hide=issues%2Cprs&amp;disable_animations=true&amp;hide_border=true&amp;hide_title=true&amp;card_width=440&amp;theme=default" alt="Public GitHub stars, commits, and repositories contributed to" width="440" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mohdazmi03&amp;hide_border=true&amp;card_width=440&amp;theme=github-dark-blue" />
+    <img src="https://streak-stats.demolab.com/?user=mohdazmi03&amp;hide_border=true&amp;card_width=440&amp;theme=transparent" alt="Total GitHub contributions, current streak, and longest streak" width="440" />
+  </picture>
+</p>
+
+Public repository stats and activity from my GitHub contribution calendar.
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/azmi03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohammadazmi.mj@gmail.com"><img src="https://img.shields.io/badge/Email-252A33?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
