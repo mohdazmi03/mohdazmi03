@@ -1,4 +1,4 @@
-<h1 align="center">Mohammad Azmi</h1>
+<h1 align="center">Azmi</h1>
 
 <p align="center"><strong>Software Engineer at WAHDAH.com</strong></p>
 
